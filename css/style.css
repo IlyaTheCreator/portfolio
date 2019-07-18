@@ -164,8 +164,8 @@ header, section, footer {
 }
 
 .appear {
-  -webkit-transform: translateY(60%);
-          transform: translateY(60%);
+  -webkit-transform: translateY(30%);
+          transform: translateY(30%);
 }
 
 .menu-btn {
@@ -266,6 +266,7 @@ header, section, footer {
 
 @media (max-width: 425px) {
   #header .name h1 {
+    margin-top: 50px;
     font-size: 3.5em;
   }
 }
