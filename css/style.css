@@ -217,6 +217,12 @@ header, section, footer {
   }
 }
 
+@media (max-width: 425px) {
+  #header {
+    height: 150vh;
+  }
+}
+
 @media (min-width: 1440px) {
   #header {
     padding: 200px 0;
