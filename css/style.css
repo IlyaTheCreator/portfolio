@@ -164,8 +164,8 @@ header, section, footer {
 }
 
 .appear {
-  -webkit-transform: translateY(30%);
-          transform: translateY(30%);
+  -webkit-transform: translateY(24%);
+          transform: translateY(24%);
 }
 
 .menu-btn {
